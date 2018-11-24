@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>show_goods</title>
+    <script src="__PUBLIC__/js/jquery-1.9.1.js"></script>
+    <link rel="stylesheet" href="__PUBLIC__/bootstrap/css/bootstrap.css">
+    <script src="__PUBLIC__/bootstrap/js/bootstrap.js"></script>
+    <script src="__PUBLIC__/js/pop/popup.js"></script>
+    <script src="__PUBLIC__/js/page/paginathing.js"></script>
+    <link rel="stylesheet" href="__PUBLIC__/css/pop/popup.css">
+    <link rel="stylesheet" href="__PUBLIC__/css/goodsinfo/goods.css">
+    <script src="__PUBLIC__/js/back_goodscolor/goodscolor.js"></script>
+
+</head>
+<body>
+<div class="content">
+    <div class="page-header">
+        <h2>商品颜色一览表</h2>
+    </div>
+    <ul class="nav nav-tabs">
+        <li role="presentation" class="active"><a href="#">商品颜色信息</a></li>
+        <li role="presentation"><a href="#">添加商品颜色</a></li>
+
+    </ul>
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>颜色ID</th>
+                <th>商品名称</th>
+                <th>商品颜色</th>
+                <th>商品颜色图片</th>
+                <th>操作</th>
+            </tr>
+            </thead>
+            <tbody class="haschild">
+            <volist name="colordata" id="vo">
+                <tr>
+                    <td class="colorid">{$vo.colorid}</td>
+                    <td class="goodsname">{$vo.goodsname}</td>
+                    <td class="color">{$vo.goodscolor}<span class="co" style="display: inline-block;width: 20px;height: 20px;background-color: {$vo.goodscolor};float: right;margin-right: 20px"></span></td>
+                    <td class="goodsimg"><img src="__PUBLIC__/goods_colorimg/{$vo.goodsimg}"></td>
+                    <td><button type="button" class="btn btn-info edit" data-toggle="modal" data-target="#myModal">编辑</button><button type="button" class="btn btn-danger">删除</button></td>
+                </tr>
+            </volist>
+            </tbody>
+        </table>
+        <!--<div class="black2"><span class="disabled"> < </span><span class="current">1</span><a href="#?page=2">2</a><a href="#?page=3">3</a>...<a href="#?page=199">199</a><a href="#?page=2"> > </a></div></p>-->
+    </div>
+
+    <div class="alert">
+        <form class="form-horizontal"  enctype="multipart/form-data" role="form" method="post" action="add_goodscolor">
+
+            <div class="form-group">
+                <label class="col-sm-2 control-label">商品名称</label>
+                <div class="col-sm-10">
+                    <select class="form-control" name="goodsname">
+                        <volist name="goodsname" id="data">
+                            <option>{$data.goodsname}</option>
+                        </volist>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label  class="col-sm-2 control-label">商品颜色</label>
+                <div class="col-sm-10">
+                    <input type="color"  class="form-control" name="color" >
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-sm-2 control-label">商品颜色图片</label>
+                <div class="col-sm-10">
+                    <input type="file" name="goods_img">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-offset-4 col-sm-10">
+                    <button type="submit" class="btn btn-default add">确定添加</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+
+
+    <!--模态框 修改界面-->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="myModalLabel">商品颜色修改</h4>
+                </div>
+                <div class="modal-body">
+                    <form class="form-horizontal" role="form" enctype="multipart/form-data" method="post" action="alert_goodscolor">
+
+                        <input type="text" class="hidden_id" name="goodsid" style="display: none">
+
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label">商品名称</label>
+                            <div class="col-sm-9">
+                                <select class="form-control a" name="goodsname" readonly="readonly">
+                                    <volist name="goodsname" id="data">
+                                        <option>{$data.goodsname}</option>
+                                    </volist>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label  class="col-sm-3 control-label">商品颜色</label>
+                            <div class="col-sm-9">
+                                <input type="color"  class="form-control b"  name="color" >
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label">商品颜色图片</label>
+                            <div class="col-sm-9">
+                                <input type="file" name="goods_img" class="c">
+                            </div>
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary">提交更改</button>
+                        </div>
+                    </form>
+                </div>
+
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal -->
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,301 @@
+.color{
+    color: rgb(51,51,51);
+}
+
+.top .bananer .ba-img{
+    width: 13%;
+}
+.top .bananer .ba-img img{
+    width: 100%;
+    margin: 36px 0 0 40%;
+}
+.type-nav{
+    width: 100%;
+    border-bottom: 1px solid rgb(221,221,221);
+}
+.top_icon .cart_icon #count{
+    top: -5px;
+}
+
+.type-nav .myli{
+    width: 62.5%;
+    min-width: 1000px;
+    height: 100px;
+    line-height: 100px;
+    margin: 0 auto;
+}
+.type-nav .myli ul{
+    width: 100%;
+    height: 50px;
+    padding-top: 47px;
+    line-height: 50px;
+}
+.type-nav .myli ul li{
+    list-style: none;
+    float: left;
+    font-size: 18px;
+    margin-right: 10%;
+    cursor: pointer;
+}
+.type-nav .myli ul li a{
+    text-decoration: none;
+    padding-bottom: 17px;
+    color: #333333;
+}
+.login_reg{
+   z-index: 4;
+}
+.popup-mask{
+    z-index: 5;
+}
+.popup-wrap{
+    z-index: 6;
+}
+.type-nav .myli ul li a:hover{
+    color: rgb(19,139,139);
+   border-bottom: 2px solid rgb(19,139,139);
+}
+.detail-main {
+    width: 100%;
+    border-bottom: 1px solid rgb(221,221,221);
+}
+.detail-main .m-main{
+    width: 62.5%;
+    min-width: 1000px;
+    height: 650px;
+    margin: 80px auto 0 auto;
+}
+
+.detail-main .m-main .title{
+   margin-bottom: 24px;
+}
+.detail-main .m-main .title span{
+    display: inline-block;
+    font-size: 18px;
+    padding: 0 5px;
+}
+.detail-main .m-main .conter{
+    width: 100%;
+}
+.detail-main .m-main .conter .imgbox{
+    float: left;
+    width: 47%;
+    margin-right: 8%;
+    overflow: hidden;
+    position: relative;
+}
+.partialViewSlider-backdrop{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.detail-main .m-main .conter .imgbox img{
+    width: 100%;
+}
+.detail-main .m-main .conter .textbox{
+    width:44.8% ;
+    float: right;
+}
+.detail-main .m-main .conter .textbox .goodsname{
+     font-size: 34px;
+}
+.detail-main .m-main .conter .textbox .price{
+    font-size: 30px;
+    margin: 25px 0;
+}
+.detail-main .m-main .conter .textbox .three{
+   width: 100%;
+
+}
+.detail-main .m-main .conter .textbox .three img{
+    width: 100%;
+}
+.detail-main .m-main .conter .textbox .other{
+    width: 100%;
+    height: 85px;
+    font-size: 14px;
+    margin: 25px 0;
+}
+.detail-main .m-main .conter .textbox .other div:nth-child(2){
+    margin: 12px 0;
+}
+.detail-main .m-main .conter .textbox .colorblock{
+    width: 100%;
+    height: 30px;
+    font-size: 18px;
+    line-height: 30px;
+}
+.top .login_reg .login_box>img{
+    margin: -50px 0 0 20px;
+
+}
+.top .login_reg .login_box .btn{
+    padding: 32px 0 51px 170px !important;
+}
+.kind span{
+    display: inline-block;
+}
+.out-circle{
+    width: 25px;
+    height: 25px;
+    border: 1px solid grey;
+    margin-right: 10px;
+    border-radius: 50%;
+    display: none;
+}
+.in-circle{
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    margin: 3px 3px;
+    border: 1px solid #898989;
+    cursor: pointer;
+}
+.detail-main .m-main .conter .textbox .count{
+    width: 100%;
+    height: 30px;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 35px 0;
+}
+.detail-main .m-main .conter .textbox .count div{
+    display: inline-block;
+}
+.detail-main .m-main .conter .textbox .count div:last-child{
+    height: 360px;
+    line-height: 30px;
+}
+/*.detail-main .m-main .conter .textbox .count div:last-child span:first-child,*/
+/*.detail-main .m-main .conter .textbox .count div:last-child span:last-child{*/
+    /*width: 30%;*/
+    /*height: 30px;*/
+    /*border: 1px solid rgb(153,153,153);*/
+    /*background-color: rgb(244,245,245);*/
+/*}*/
+.count span{
+    display: inline-block;
+    height: 30px;
+    width: 35px;
+    text-align: center;
+    border: 1px solid rgb(153,153,153);
+    background-color: rgb(244,245,245);
+    line-height: 30px;
+}
+ #plus{
+    margin-right: -5px;
+    border-right: none;
+     cursor: pointer;
+}
+ #sub{
+    margin-left: -5px;
+    border-left: none;
+     cursor: pointer;
+}
+ #count-text{
+    width: 70px;
+    height: 30px;
+     background-color: white;
+}
+.detail-main .m-main .conter .textbox .paydiv{
+    width: 100%;
+}
+.detail-main .m-main .conter .textbox .paydiv div{
+    display: inline-block;
+    width: 165px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 18px;
+    border: 2px solid rgb(19,139,139);
+    text-align: center;
+    margin-right: 27px;
+    border-radius: 5px;
+}
+.detail-main .m-main .conter .textbox .paydiv .addcart{
+    color: rgb(19,139,139);
+    cursor: pointer;
+}
+.detail-main .m-main .conter .textbox .paydiv .nowpay{
+    color: #FFFFFF;
+    background-color:rgb(19,139,139) ;
+    cursor: pointer;
+}
+
+ .goodsshow {
+    width: 62.5%;
+    min-width: 1000px;
+    margin: 57px auto 150px auto;
+    clear: left;
+}
+ .goodsshow .showtitle{
+    width: 100%;
+    font-size: 28px;
+    text-align: center;
+}
+ .goodsshow .showtitle p:first-child{
+    padding-bottom: 10px;
+}
+.goodsshow .show-detailimg{
+    width: 80%;
+    margin: 20px auto;
+}
+.goodsshow .show-detailimg img{
+    width: 100%;
+}
+.detail-footer {
+    width: 62.5%;
+    min-width: 1000px;
+    margin: 0 auto;
+    height: 600px;
+}
+.detail-footer .footer-title{
+      text-align: center;
+       font-size: 28px;
+}
+.detail-footer .footer-title p{
+    margin-bottom: 10px;
+}
+.detail-footer .Answer{
+    width: 100%;
+    margin-top: 80px;
+}
+.detail-footer .Answer .left{
+    width: 39%;
+    float: left;
+
+}
+.detail-footer .Answer .right{
+    width: 39%;
+    float: right;
+
+}
+.bottom{
+    margin-bottom: 80px;
+}
+.rightbottom{
+    margin-bottom: 40px;
+}
+.detail-footer .Answer .left .one,
+.detail-footer .Answer .right .one{
+    font-size: 20px;
+    width: 100%;
+}
+.detail-footer .Answer .left .one p,
+.detail-footer .Answer .right .one p{
+    line-height: 35px;
+}
+.backtop{
+    width: 100%;
+}
+.backtop a{
+    display: block;
+    text-decoration: none;
+    margin: 50px auto;
+    width: 186px;
+    height: 64px;
+    text-align: center;
+    border-radius: 5px;
+    line-height: 64px;
+    color: rgb(19,139,139);
+    font-size: 24px;
+    border: 2px solid rgb(19,139,139);
+}
+

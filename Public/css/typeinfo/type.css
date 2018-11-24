@@ -1,0 +1,40 @@
+.btn{
+   display: inline-block;
+    margin-right: 20px;
+}
+.table > tbody > tr > td{
+    vertical-align: middle;
+}
+.form-inline{
+    /*text-align: center;*/
+    margin: 45px 0 ;
+
+}
+.pagination-container{
+    float: right;
+    margin-right: 10px;
+}
+
+.content{
+    position: relative;
+    margin-top: 80px;
+    padding-left: 10px;
+}
+h2{
+    text-indent: 1em;
+}
+.edit{
+    position: absolute;
+    width: 500px;
+    height: 350px;
+    border-radius: 4px;
+    top: 100px;
+    left: 300px;
+    background-color: grey;
+    display: none;
+}
+.close{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}

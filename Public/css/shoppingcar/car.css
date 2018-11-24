@@ -1,0 +1,136 @@
+.top .bananer .ba-img{
+    width: 13%;
+}
+.top .bananer .ba-img img{
+    width: 100%;
+    margin: 36px 0 0 40%;
+}
+.top_icon .cart_icon #count{
+    top: -5px;
+    right: 22px;
+}
+.cart_icon{
+    display: inline-block;
+    margin-top: -4px;
+    right: 4px;
+}
+.top .login_reg .login_box .btn{
+    padding: 30px 0 50px 170px;
+}
+.top .login_reg .login_box>img{
+    margin: -60px 0 0 10px;
+}
+.nav{
+    left: 30%;
+}
+.box{
+    clear: both;
+    width: 1200px;
+    margin: 120px auto auto auto;
+}
+.table>tbody>tr>td,th{
+    vertical-align: middle;
+    text-align: center;
+}
+.allchoise{
+    display: inline-block;
+    margin-left: 24px;
+}
+.goods_info>img{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+.info{
+    display: inline-block;
+    margin-left: 16px;
+}
+.info span{
+    display: block;
+}
+.info .color{
+    width: 30px;
+    height: 20px;
+    border: 0.5px solid grey;
+}
+
+.op .num{
+    display: inline-block;
+    outline: none;
+    text-align: center;
+    line-height: 30px;
+    width:80px;
+    height: 30px;
+    background-color: white;
+    border-right: none;
+}
+.op span{
+    display: inline-block;
+    width:35px;
+    height:30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 10px;
+    cursor: pointer;
+    border: solid 1px #999999;
+    background: rgba(128, 128, 128, 0.47);
+}
+.plus{
+    margin-right: -5px;
+}
+.sub{
+    margin-left: -5px;
+}
+.del{
+    cursor: pointer;
+}
+.pagination-container{
+    position: fixed;
+    right:140px;
+    bottom: 50px;
+}
+
+.final{
+    width: 1200px;
+    margin: -10px auto;
+    padding-top: 25px;
+    border-top:1px solid #dddddd ;
+    clear: both;
+}
+.has_choise{
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 44px;
+    color: #333333;
+}
+.del_all{
+    display: inline-block;
+    font-size: 14px;
+    color: #333333;
+    margin-left: 48px;
+    cursor: pointer;
+}
+.sum{
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 650px;
+    color: #333333;
+    width: 180px;
+}
+.sum>a{
+    font-size: 24px;
+}
+.acount{
+    display: inline-block;
+    width: 150px;
+    background-color: #138b8b;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 0;
+    color: #ffffff;
+    text-align: center;
+    cursor: pointer;
+}

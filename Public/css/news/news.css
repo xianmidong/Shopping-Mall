@@ -1,0 +1,38 @@
+.top .bananer .ba-img{
+    width: 13%;
+}
+.top .bananer .ba-img img{
+    width: 100%;
+    margin: 36px 0 0 40%;
+}
+.news-main{
+ width: 65%;
+ margin: 31px auto 0 auto;
+
+}
+.news-main .box{
+    width: 48%;
+    float: left;
+    margin: 0 1%;
+}
+.news-main .box .img{
+    width: 100%;
+
+}
+.news-main .box .img img{
+    width: 100%;
+}
+.news-main .box .text {
+    width: 100%;
+    margin: 15px 0 30px 0;
+    font-size: 12px;
+    color: rgb(102,102,102);
+}
+.news-size{
+    font-size: 18px;
+    color:rgb(51,51,51) ;
+}
+
+.magin-border{
+    margin-bottom: 8px;
+}

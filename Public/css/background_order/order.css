@@ -1,0 +1,18 @@
+.content{
+    margin-top: 80px;
+}
+.modal-dialog{
+    margin: 100px auto;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+    vertical-align: middle;
+    text-align: center;
+}
+.deliver{
+    display: inline-block;
+    width: 30px;
+    height: 17px;
+    border: 1px solid rgba(128, 128, 128, 0.75);
+    cursor: pointer;
+    border-radius: 6px;
+}

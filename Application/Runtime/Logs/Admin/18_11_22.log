@@ -1,0 +1,214 @@
+[ 2018-11-22T23:35:26+08:00 ] ::1 /furniture/Admin/Userlogin/blur_event?val=%E5%B0%8F%E5%A6%B9%E5%A6%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0088s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `userinfo` WHERE ( username='小妹妹'or telphone='小妹妹' ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001515s ]
+
+[ 2018-11-22T23:35:36+08:00 ] ::1 /furniture/Admin/Userlogin/blur_event?val=15779052051
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0158s ]
+SQL: SELECT * FROM `userinfo` WHERE ( username='15779052051'or telphone='15779052051' ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001425s ]
+
+[ 2018-11-22T23:35:36+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002343s ]
+
+[ 2018-11-22T23:42:09+08:00 ] ::1 /furniture/Admin/Userlogin/blur_event?val=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0209s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `userinfo` WHERE ( username=''or telphone='' ) LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001759s ]
+
+[ 2018-11-22T23:42:12+08:00 ] ::1 /furniture/Admin/Userlogin/blur_event?val=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0192s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `userinfo` WHERE ( username=''or telphone='' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2018-11-22T23:42:15+08:00 ] ::1 /furniture/Admin/Userlogin/blur_event?val=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0145s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `userinfo` WHERE ( username=''or telphone='' ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001140s ]
+
+[ 2018-11-22T23:42:58+08:00 ] ::1 /furniture/Admin/Userlogin/blur_event?val=%E5%B0%8F%E5%A6%B9%E5%A6%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0182s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `userinfo` WHERE ( username='小妹妹'or telphone='小妹妹' ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2018-11-22T23:43:05+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2018-11-22T23:43:06+08:00 ] ::1 /furniture/Admin/Userlogin/blur_event?val=15779052051
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0092s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `userinfo` WHERE ( username='15779052051'or telphone='15779052051' ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2018-11-22T23:43:38+08:00 ] ::1 /furniture/Admin/Userlogin/blur_event?val=15779052051
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0197s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `userinfo` WHERE ( username='15779052051'or telphone='15779052051' ) LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001588s ]
+
+[ 2018-11-22T23:44:06+08:00 ] ::1 /furniture/Admin/Userlogin/blur_event?val=%E5%B0%8F%E5%A6%B9%E5%A6%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002399s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in F:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret F:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0168s ]
+SQL: SELECT * FROM `userinfo` WHERE ( username='小妹妹'or telphone='小妹妹' ) LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001634s ]
+

@@ -1,0 +1,134 @@
+
+.top_icon .cart_icon #count{
+    top:-4px;
+}
+
+.top .bananer .ba-img{
+    width: 13%;
+}
+.top .bananer .ba-img img{
+    width: 100%;
+    margin: 36px 0 0 40%;
+}
+.order_main{
+    width: 63%;
+    margin: 30px auto;
+}
+.text{
+    color: #333333;
+    font-size: 20px;
+    border-bottom:1px solid #a1a1a1;
+    padding: 20px 10px;
+}
+.consign_info{
+    width: 100%;
+    margin-bottom: 20px;
+    border-bottom:1px solid #a1a1a1;
+}
+.consign_info .t,
+.order_info .t{
+    color: #333333;
+    font-size:16px;
+    padding: 10px;
+}
+.consign_info .address-data{
+    width:100%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    clear: left;
+    padding-left: 20px;
+}
+.consign_info .address-data .check{
+    float: left;
+}
+.consign_info .address-data .addre{
+    float: left;
+    font-size: 14px;
+    margin-left: 5px;
+    color: #757575;
+}
+.order_info{
+ width: 100%;
+}
+.order_info .goods{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    background-color: #ebebeb;
+}
+.order_info .goods span ,
+.order_info .order_box div{
+    text-align: center;
+    color: #757575;
+    display: inline-block;
+}
+.order_info .order_box{
+    width:100%;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gainsboro;
+
+}
+.order_info .order_box div{
+   width: 100%;
+    height: 80px;
+    line-height: 80px;
+    margin-top: 10px;
+}
+.order_info .order_box div:first-child{
+    position: relative;
+}
+.order_info .order_box div:first-child .goodsimg{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+    position: absolute;
+    left: 10%;
+    top: 0;
+
+}
+.order_info .order_box div:first-child span:first-child img{
+    width: 100%;
+    height: 100%;
+}
+.order_footer{
+    float: right;
+    margin-top: 20px;
+}
+.order_footer div{
+    font-size: 18px;
+    display: inline-block;
+}
+.order_footer div span{
+    color: red;
+    font-size: 25px;
+    padding-right: 20px;
+}
+.order_footer button{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color:rgb(19,139,139) ;
+    border: none;
+    outline: none;
+}
+.modal-dialog{
+    margin: 180px auto;
+}
+.modal-body .payment{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.modal-body .payment img{
+    width: 100%;
+}
+.modal-footer{
+   text-align: center;
+}
+.modal-footer button{
+    padding:6px 16px;
+}

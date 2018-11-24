@@ -1,0 +1,52 @@
+.content{
+    margin-top:80px;
+    padding-left: 10px;
+}
+.page-header>h3{
+    text-indent: 1em;
+}
+.table{
+    margin-top: 2px;
+}
+.table th{
+    text-align: center;
+}
+.table td{
+    vertical-align: middle;
+    text-align: center;
+}
+.btn{
+    display: inline-block;
+    margin-right: 20px;
+}
+.show{
+    height: 10px;
+    margin-left: 30px;
+    outline: none;
+}
+.new{
+    height: 10px;
+    margin-left: 30px;
+    outline: none;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+    vertical-align: middle;
+}
+.alert{
+    display: none;
+}
+.form-control{
+    width: 50%;
+}
+.modal{
+    top:110px;
+}
+.goodsimg>img{
+    width: 50px;
+    height: 50px;
+}
+.pagination-container{
+    float: right;
+    margin-top: -30px;
+    margin-right: 10px;
+}

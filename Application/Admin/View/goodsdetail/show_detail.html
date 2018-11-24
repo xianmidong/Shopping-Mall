@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>show_detail</title>
+    <script src="__PUBLIC__/js/jquery-1.9.1.js"></script>
+    <script src="__PUBLIC__/bootstrap/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="__PUBLIC__/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="__PUBLIC__/css/goodsdetail/goods_detail.css">
+    <script src="__PUBLIC__/js/page/paginathing.js"></script>
+    <script src="__PUBLIC__/js/goodsdetail/goods_detail.js"></script>
+
+</head>
+<body>
+<div class="content">
+    <div class="page-header">
+        <h2>商品细节展示</h2>
+    </div>
+    <ul class="nav nav-tabs">
+        <li role="presentation" class="active"><a href="#">细节展示</a></li>
+        <li role="presentation"><a href="#">添加商品细节图</a></li>
+    </ul>
+    <div class="container">
+        <table class="table table-bordered">
+            <thead>
+                <th>图片编号</th>
+                <th>商品名称</th>
+                <th>细节图片</th>
+                <th>操作</th>
+            </thead>
+            <tbody>
+            <volist name="all" id="vo">
+                <tr>
+                    <td class="detail_id">{$vo.photoid}</td>
+                    <td class="goods_name">{$vo.goodsname}</td>
+                    <td class="detail_img"><img src="__PUBLIC__/goods_detail_img/{$vo.photoimg}"></td>
+                    <td>
+                        <button type="button" class="btn btn-info edit" data-toggle="modal" data-target="#myModal">更换细节图</button>
+                        <button type="button" class="btn btn-danger">删除细节图</button>
+                    </td>
+                </tr>
+
+            </volist>
+            </tbody>
+        </table>
+    </div>
+    <div class="add_detail">
+        <form method="post" action="add_detail" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="exampleInputPassword1">商品名称</label>
+            <select class="form-control" id="exampleInputPassword1" name="goods_name">
+               <foreach name="goodsname" item="vo">
+                   <option>{$vo.goodsname}</option>
+               </foreach>
+            </select>
+        </div>
+            <div class="form-group">
+                <label for="exampleInputFile">选择细节图</label>
+                <input type="file" id="exampleInputFile" name="detail_img">
+            </div>
+            <button type="submit" class="btn btn-default">确定添加</button>
+        </form>
+    </div>
+
+    <!--模态框-->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="myModalLabel">细节图修改</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="alert_detail">
+                        <form method="post" action="alert_detail" enctype="multipart/form-data">
+                            <input type="text"  style="display: none" class="idhide" name="photo_id">
+                            <div class="form-group">
+                                <label for="a">商品名称</label>
+                                <select class="form-control" id="a" name="goods_name" disabled>
+                                    <volist name="goodsname" id="vo">
+                                        <option>{$vo.goodsname}</option>
+                                    </volist>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="b">选择细节图</label>
+                                <input type="file" id="b" name="img">
+                            </div>
+                            <button type="submit" class="btn btn-default ">确定修改</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

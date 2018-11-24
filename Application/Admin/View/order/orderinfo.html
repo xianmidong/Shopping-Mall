@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>orderinfo</title>
+    <script src="__PUBLIC__/js/jquery-1.9.1.js"></script>
+    <script src="__PUBLIC__/bootstrap/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="__PUBLIC__/bootstrap/css/bootstrap.css">
+    <script src="__PUBLIC__/js/page/paginathing.js"></script>
+    <link rel="stylesheet" href="__PUBLIC__/css/background_order/order.css">
+    <script src="__PUBLIC__/js/background_order/order.js"></script>
+
+</head>
+<body>
+<div class="content">
+    <div class="page-header">
+        <h2>订单信息展示</h2>
+    </div>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>订单ID</th>
+                <th>订单客户</th>
+                <th>联系电话</th>
+                <th>订单金额(元)</th>
+                <th>商品件数</th>
+                <th>下单时间</th>
+                <th>收件人</th>
+                <th>订单状态</th>
+                <th>是否发货</th>
+                <th>配送地址</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody>
+            <volist name="order" id="vo">
+                <tr>
+                    <td class="orderid">{$vo.orderid}</td>
+                    <td>{$vo.username}</td>
+                    <td>{$vo.telphone}</td>
+                    <td>{$vo.total}</td>
+                    <td>{$vo.ordersum}</td>
+                    <td>{$vo.orderdate}</td>
+                    <td>{$vo.consignee}</td>
+                    <td class="is_pay"><if condition="$vo.orderstate eq 0"><span class="no-pay">未付款</span><else/>已付款</else></if></td>
+                    <td><if condition="$vo.orderstate eq 0">未付钱,不给发货<else/><span class="deliver"></span></if></td>
+                    <td>{$vo.address}</td>
+                    <td><button class="btn btn-danger">删除</button></td>
+                </tr>
+            </volist>
+        </tbody>
+    </table>
+    <!--模态框-->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body" style="text-align: center"><h3>该订单未付款,不能删除此订单</h3></div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal -->
+    </div>
+</div>
+</body>
+</html>

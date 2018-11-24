@@ -1,0 +1,318 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow:auto;
+    overflow-x: hidden;
+    min-width: 1200px;
+}
+.warper{
+    width: 100%;
+}
+.top{
+    width: 100%;
+}
+.top .bananer{
+    width: 100%;
+    position: relative;
+}
+.top .bananer img{
+    width: 100%;
+}
+.nav{
+    height: 68px;
+    width: 48%;
+    position: absolute;
+    left:35%;
+    top:26px;
+    line-height: 68px;
+}
+.nav ul{
+    width: 100%;
+}
+.nav ul  li{
+    display: inline-block;
+    width: 12%;
+    list-style: none;
+    float: left;
+    text-align: center;
+}
+.nav ul li:last-child{
+    width: 40%;
+    text-align: right;
+    float: right;
+}
+
+.nav ul li a{
+    font-size: 16px;
+    padding-bottom: 9px;
+    text-decoration: none;
+    color: #333333;
+}
+.nav ul li a:hover{
+    cursor: pointer;
+    color: #138b8b;
+    border-bottom: 2px solid #138b8b;
+}
+.top_icon{
+    width: 200px;
+    height:68px;
+    position: absolute;
+    line-height: 68px;
+    right:0;
+    top:26px;
+}
+.top_icon span{
+    float: left;
+    padding: 0 8%;
+}
+.top_icon .cart_icon {
+    position: relative;
+    cursor: pointer;
+}
+.login>img{
+    cursor: pointer;
+}
+.top_icon .cart_icon #count{
+    color: #FFFFFF;
+    font-size: 12px;
+    position: absolute;
+    top:-16px;
+    right: 20px;
+}
+.out{
+    display: inline-block;
+    cursor: pointer;
+    font-size: 8px;
+}
+.out:hover{
+    color: #1ebfae;
+}
+
+
+/*登录注册*/
+.top .login_reg{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(51, 51, 51, 0.32);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: none;
+}
+.top .login_reg .login_box{
+    width: 565px;
+    height:560px ;
+    background-color: #FFFFFF;
+    margin: 130px auto;
+}
+.top .login_reg .login_box>img{
+    display: inline-block;
+    margin: 20px 0 0 20px;
+}
+.top .login_reg .login_box .btn{
+    padding: 30px 0 50px 210px;
+}
+.top .login_reg .login_box .btn span{
+    display: inline-block;
+    border:1px solid rgb(19,139,139) ;
+    text-align: center;
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    cursor: pointer;
+}
+.top .login_reg .login_box .btn span:first-child{
+    background-color:rgb(19,139,139) ;
+    color: #FFFFFF;
+    border-top-left-radius:5px ;
+    border-bottom-left-radius:5px ;
+}
+.top .login_reg .login_box .btn span:last-child{
+    background-color:white ;
+    color: #333333;
+    border-top-right-radius:5px;
+    border-bottom-right-radius:5px;
+}
+.magin{
+    margin-left: -6px;
+}
+/*登录*/
+.top .login_reg .login_box .log{
+    width: 100%;
+    margin-top: 40px;
+}
+
+.top .login_reg .login_box .log .user,.top .login_reg .login_box .reg .user{
+    text-align: center;
+    width: 300px;
+    margin: 0 auto 25px auto;
+    border-radius: 5px;
+    border: 1px solid rgb(153,153,153);
+    position: relative;
+
+}
+.top .login_reg .login_box .log .user>img,.top .login_reg .login_box .reg .user>img{
+      position: absolute;
+      left: 10px;
+      top:10px ;
+}
+.top .login_reg .login_box .log .user>input,.top .login_reg .login_box .reg .user>input{
+    display: inline-block;
+    width: 98%;
+    height: 40px;
+    outline: none;
+    border: none;
+    color: rgb(136,136,136);
+    font-size: 16px;
+    text-indent: 2.5em;
+
+}
+.top .login_reg .login_box .log .user .block img,.top .login_reg .login_box .reg .user .block img{
+    position: absolute;
+    top:15px;
+    right: 10px;
+    cursor: pointer;
+}
+.top .login_reg .login_box .log .logbtn,.top .login_reg .login_box .reg .regbtn{
+    display: block;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    background-color:rgb(19,139,139) ;
+    border: none;
+    margin: 0 auto ;
+    color: #FFFFFF;
+    font-size: 18px;
+    outline: none;
+    cursor: pointer;
+}
+
+/*注册*/
+
+.top .login_reg .login_box .reg{
+    width: 100%;
+    display: none;
+}
+.top .login_reg .login_box .reg .verfy{
+    width: 300px;
+    margin: 0 auto 25px auto;
+    clear: left;
+}
+.top .login_reg .login_box .reg .verfy .text{
+    width: 180px;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    border: 1px solid rgb(153,153,153);
+    position: relative;
+}
+.top .login_reg .login_box .reg .verfy .text>img{
+    position: absolute;
+    left: 10px;
+    top:10px ;
+}
+.top .login_reg .login_box .reg .verfy .text>input{
+    display: inline-block;
+    width: 97%;
+    height: 40px;
+    outline: none;
+    border: none;
+    color: rgb(136,136,136);
+    font-size: 16px;
+    text-indent: 2.5em;
+}
+.top .login_reg .login_box .reg .verfy .send{
+    width: 110px;
+    height: 40px;
+    float: right;
+    display: inline-block;
+    line-height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    border: 1px solid rgb(19,139,139);
+    color: rgb(19,139,139);
+    outline: none;
+    background: none;
+}
+.top .login_reg .login_box .reg .verfy .send:hover{
+    cursor: pointer;
+}
+.checkbox{
+    text-align: center;
+    margin-top: 15px;
+}
+.circle{
+    border-radius: 14px;
+    display: inline-block;
+}
+
+
+/*底部*/
+
+.footer{
+    width: 100%;
+}
+.footer .one{
+    width: 100%;
+    height: 406px;
+    clear: both;
+}
+.footer .one img{
+    width: 100%;
+
+}
+.footer .two{
+    width: 55%;
+    height: 150px;
+    margin:40px auto;
+
+}
+.footer .two .two_left{
+    width: 16%;
+    height:100px;
+    margin-right: 13%;
+    float: left;
+}
+.size{
+    font-weight: bold;
+    padding:  20px 0;
+}
+.footer .two .two_left p{
+    padding-bottom: 10px;
+    font-size: 12px;
+    color: #333333;
+}
+.two_right{
+    float: right;
+    width: 10% ;
+    height: 160px;
+}
+.two_right .ma{
+    width: 100%;
+
+}
+.two_right .ma img{
+    width: 100%;
+}
+.two_right p{
+    color: #333333;
+    font-size: 12px;
+    padding-top: 10px;
+    text-align: center;
+}
+.footer .three{
+    width: 33.5%;
+    margin: 0 auto;
+
+}
+.footer .three p{
+    white-space: nowrap;
+    text-align: center;
+    padding: 0 0 20px 0 ;
+    color: #333333;
+    font-size: 10px;
+}

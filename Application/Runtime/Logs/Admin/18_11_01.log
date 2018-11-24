@@ -1,0 +1,1721 @@
+[ 2018-11-01T08:54:36+08:00 ] ::1 /furniture/Admin/Backindex/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T08:54:36+08:00 ] ::1 /furniture/index.php/Admin/Adminlogin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T08:54:42+08:00 ] ::1 /furniture/Admin/Adminlogin/login_verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2018-11-01T08:54:45+08:00 ] ::1 /furniture/Admin/Adminlogin/login_verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2018-11-01T08:55:09+08:00 ] ::1 /furniture/index.php/Admin/Adminlogin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T08:55:19+08:00 ] ::1 /furniture/Admin/Adminlogin/login_verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0780s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `admin` WHERE ( adminname='llj' and adminpwd='d210b5a8c79efa7d7d72052b8f1ec9fd' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T08:55:19+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T08:57:08+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T08:57:10+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:07:02+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:07:03+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:07:26+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:07:28+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:07:54+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:07:57+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:07:57+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:08:53+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:08:58+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:12:12+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:12:46+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:13:21+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:13:26+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:13:35+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:13:36+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:26:39+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:26:39+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:26:40+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:26:40+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:26:41+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:26:41+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:26:41+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:26:41+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:26:42+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:26:42+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:26:42+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:26:42+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:26:43+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:26:53+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T09:26:57+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:32:47+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:32:49+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T09:38:13+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:41+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:47+08:00 ] ::1 /furniture/Admin/Adminlogin/login_verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `admin` WHERE ( adminname='llj' and adminpwd='d210b5a8c79efa7d7d72052b8f1ec9fd' ) LIMIT 1   [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:48+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:52+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:27:56+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:56+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:27:57+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:57+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:27:57+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:27:57+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:58+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:27:58+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:27:58+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:27:58+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:27:59+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:59+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:59+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:27:59+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:28:00+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:28:00+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:44:46+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:44:50+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:44:56+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:44:56+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=122&typenote=555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='122' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:05+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0250s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:05+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:06+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:45:06+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:45:07+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0210s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:07+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:45:08+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0220s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:45:08+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:37+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:39+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:45:40+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-11-01T10:45:40+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:41+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:41+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:42+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0220s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T10:45:42+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:45:42+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T10:45:42+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:43+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T10:45:44+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:45:44+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:45:44+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:46:49+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:46:49+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0220s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T10:46:54+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=555&typenote=55
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0230s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='555' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:46:54+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:46:55+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2018-11-01T10:46:55+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:46:56+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0230s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T10:46:56+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:46:56+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0220s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T10:46:56+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:47:10+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=656&typenote=5%2B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='656' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:47:14+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=656&typenote=5%2B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='656' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:47:23+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=33&typenote=46546
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='33' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T10:47:28+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:47:28+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:47:31+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:47:35+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=222&typenote=323
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0210s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='222' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:47:35+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:47:36+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:47:36+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:47:37+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:47:37+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:47:50+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:47:53+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:47:55+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=a&typenote=a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='a' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:47:57+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=a&typenote=a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0312s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='a' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:49:12+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:51:17+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:51:34+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=122&typenote=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0312s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='122' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:51:38+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:51:39+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:56:38+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:56:39+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:56:45+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=789&typenote=122
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='789' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string C:\phpstudy\WWW\furniture\Application\Admin\Model\GoodstypeModel.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:58:47+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:58:47+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:58:55+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=122&typenote=555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='122' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:58:59+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=122&typenote=555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='122' ) LIMIT 1   [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:59:21+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:59:23+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T10:59:28+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=789&typenote=323
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='789' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T10:59:37+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=789&typenote=323
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='789' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T11:02:13+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T11:02:18+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=22&typenote=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0210s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='22' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T11:02:19+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=22&typenote=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='22' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T11:02:21+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=22&typenote=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='22' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T11:03:04+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=22&typenote=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='22' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T11:03:06+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T11:03:10+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=22&typenote=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='22' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T11:05:19+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=22&typenote=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='22' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T11:05:23+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=2241&typenote=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='2241' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T11:07:22+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T11:07:30+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/add_type?typename=222&typenote=323
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `goodstype` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `goodstype` WHERE ( typename='222' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `goodstype` (`typename`,`typenote`) VALUES ('222','323') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T11:08:36+08:00 ] ::1 /furniture/index.php/Admin/Typeinfo/show_type.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T13:42:21+08:00 ] ::1 /furniture/Admin/Userlogin/login_verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T13:44:35+08:00 ] ::1 /furniture/Admin/Userlogin/login_verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T15:27:51+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T15:30:35+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T15:36:48+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T15:46:58+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T16:06:28+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T16:07:20+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T16:08:25+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T16:18:12+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+
+[ 2018-11-01T16:21:32+08:00 ] ::1 /furniture/Admin/Backindex/back_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T16:21:45+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T16:26:40+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T16:27:36+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T16:28:49+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T16:30:27+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2018-11-01T16:31:40+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T16:33:23+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T16:40:16+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T16:41:07+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T16:41:52+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T16:44:52+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T16:50:27+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+NOTIC: [8] Undefined index: telphone C:\phpstudy\WWW\furniture\Application\Admin\Controller\UserloginController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T16:51:38+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-01T16:53:53+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2018-11-01T16:56:57+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T16:58:32+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T16:59:33+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T17:03:05+08:00 ] ::1 /furniture/Admin/Userlogin/send_code?telphone=1316316
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-11-01T17:03:16+08:00 ] ::1 /furniture/Admin/Userlogin/send_code?telphone=13635967675
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T18:04:06+08:00 ] ::1 /furniture/Admin/Userlogin/send_code?telphone=15779052051
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in C:\phpstudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret C:\phpstudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-11-01T18:32:18+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in D:\phpStudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in D:\phpStudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in D:\phpStudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T18:33:00+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in D:\phpStudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in D:\phpStudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in D:\phpStudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-01T18:33:05+08:00 ] ::1 /furniture/Admin/Userlogin/send_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\ZhenziSmsClient::__construct(), called in D:\phpStudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\ZhenziSmsClient::__construct(), called in D:\phpStudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [2] Missing argument 3 for Admin\Controller\ZhenziSmsClient::__construct(), called in D:\phpStudy\WWW\furniture\ThinkPHP\Common\functions.php on line 681 and defined D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 10 行.
+NOTIC: [8] Undefined variable: apiUrl D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 11 行.
+NOTIC: [8] Undefined variable: appId D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 12 行.
+NOTIC: [8] Undefined variable: appSecret D:\phpStudy\WWW\furniture\Application\Admin\Controller\ZhenziSmsClient.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

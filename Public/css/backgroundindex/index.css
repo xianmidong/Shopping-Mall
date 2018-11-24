@@ -1,0 +1,44 @@
+.btn-group{
+    position: absolute;
+    right: 60px;
+    top: 15px;
+    border: none;
+}
+.dropdown-menu>li:hover{
+   background-color: rgba(128, 128, 128, 0.44);
+}
+.navbar-header{
+    text-align: center;
+}
+.title{
+    float: left;
+    width: 350px;
+    height: 60px;
+    margin-left: 20px;
+    line-height: 85px;
+    font-size: 20px;
+    color: whitesmoke;
+    letter-spacing: 4px;
+}
+.title>img{
+    display: inline-block;
+    float: left;
+    height: 60px;
+}
+.date{
+    float: left;
+    font-size: 16px;
+    width: 300px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+.top-navbar .navbar-brand{
+    text-align: center;
+    letter-spacing: 2px;
+}
+iframe{
+    width: 100%;
+    height:800px;
+    border: none;
+}
+

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>address</title>
+    <script src="__PUBLIC__/js/jquery-1.9.1.js"></script>
+    <script src="__PUBLIC__/bootstrap/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="__PUBLIC__/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="__PUBLIC__/css/pop/popup.css">
+    <script src="__PUBLIC__/js/page/paginathing.js"></script>
+    <script src="__PUBLIC__/js/pop/popup.js"></script>
+    <!--<script src="__PUBLIC__/js/typeinfo/type.js"></script>-->
+    <link rel="stylesheet" href="__PUBLIC__/css/typeinfo/type.css">
+    <script src="__PUBLIC__/js/back_address/address.js"></script>
+
+
+</head>
+<body>
+<div class="content">
+    <div class="page-header">
+        <h2>地址一览表</h2>
+    </div>
+    <div>
+        <table class="table table-hover table-bordered">
+            <thead>
+            <tr>
+                <th>地址ID</th>
+                <th>用户名称</th>
+                <th>收货人</th>
+                <th>电话号码</th>
+                <th>收货地址</th>
+            </tr>
+            </thead>
+            <tbody>
+            <volist name="datas" id="data">
+                <tr>
+                    <td class="typeid">{$data.addressid}</td>
+                    <td class="name">{$data.username}</td>
+                    <td class="note">{$data.consignee}</td>
+                    <td class="note">{$data.telphone}</td>
+                    <td class="note">{$data.address}</td>
+                    <!--<td><button type="button" class="btn btn-info">编辑</button><button type="button" class="btn btn-danger">删除</button></td>-->
+                </tr>
+            </volist>
+            </tbody>
+        </table>
+    </div>
+</div>
+</body>
+</html>

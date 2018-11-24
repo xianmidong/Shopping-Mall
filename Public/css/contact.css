@@ -1,0 +1,54 @@
+.content{
+    width: 60%;
+    margin: 0 auto;
+}
+.content .ABOUT{
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(51,51,51);
+}
+.hr{
+    height: 5px;
+    width: 53px;
+    background: rgb(51,51,51);
+    margin: 10px  auto 0 auto;
+}
+.text{
+    color: rgb(51,51,51);
+    text-align: center;
+    margin: 20px  0 80px 0;
+    font-size: 30px;
+}
+.contents{
+    color: rgb(51,51,51);
+    font-size: 12px;
+    height: 100px;
+    line-height: 200%;
+    text-indent:2em;
+    margin-bottom: 100px;
+}
+.contents .two{
+    padding-left: 70px;
+}
+.contents .two .two_left{
+
+    width: 17%;
+    height:100px;
+    float: left;
+}
+.magin{
+    margin: 0 23% 0 0;
+}
+.size{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0 0 20px 0;
+}
+
+.contents .two .two_left p{
+    padding-bottom: 10px;
+    font-size: 12px;
+    white-space: nowrap;
+    color: #333333;
+}
